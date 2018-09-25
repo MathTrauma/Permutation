@@ -31,7 +31,7 @@
 
 
 첫 과제는 가능한 순열을 모두 출력하는 것이다. 간단한 코드는 다음과 같다.
-
+{% 1809c22aacf5ccf63834614ccb4534d0 %}
 ```c++
 #include<stdio.h>
 #include<time.h>
