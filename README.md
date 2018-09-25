@@ -1,4 +1,4 @@
-MathTrauma(http://www.mathtrauma.com)
+[MathTrauma](http://www.mathtrauma.com)
 ## Permutation(s)
 #### permutation(순열?) : 정의역과 공역이 같은 일대일 대응함수
 보통 수학 교재들에서는 위와 같이 정의한다. 한편, 일대일 대응을 통해 얻어진 수열을 일컫기도 한다.
