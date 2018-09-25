@@ -32,6 +32,7 @@
 
 
 첫 과제는 가능한 순열을 모두 출력하는 것이다. 간단한 코드는 다음과 같다.
+코드보기(https://gist.github.com/MathTrauma/114fa34ad2b46a9eaa67923507e0c642)
 {% MathTrauma/114fa34ad2b46a9eaa67923507e0c642 %}
 ```c++
 #include<stdio.h>
